@@ -1,4 +1,4 @@
-## Robotic DNN Inference Project: AlexNet & GoogLeNet Inference Model deployed in real time systems using NVIDIA DIGITS Workflow & Embeded NVIDIA JETSON TX2.
+## Robotic DNN Inference Project: AlexNet & GoogLeNet Inference Model deployed in real time systems using NVIDIA DIGITS Workflow & Embedded NVIDIA JETSON TX2.
 
 
 [//]: # (Written by Navid Safaeian July 25, 2018)
